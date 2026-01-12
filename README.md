@@ -99,9 +99,9 @@ Add it to the `plugins` section of your `build` configuration
   <plugins>
     <plugin>
       <groupId>com.hubspot.maven.plugins</groupId>
-        <artifactId>prettier-maven-plugin</artifactId>
-        <!-- Find the latest version at https://github.com/jhipster/prettier-java/releases -->
-        <version>0.8</version>
+      <artifactId>prettier-maven-plugin</artifactId>
+      <!-- Find the latest version at https://github.com/jhipster/prettier-java/releases -->
+      <version>0.8</version>
     </plugin>
   </plugins>
 </build>
